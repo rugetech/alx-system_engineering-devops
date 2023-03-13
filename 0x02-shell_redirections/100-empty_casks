@@ -1,2 +1,2 @@
 #!/biin/bash
-find . -empty | rev | cut -d '/' -f l | rev
+find . -empty | rev | cut -d '/' -f 1 | rev
